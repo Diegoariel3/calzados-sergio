@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-06T13:10:57.536297+00:00",
+  "title": "Design System: Calzado Sergio",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "primary",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0410 245.23)",
+          "oklch(26% 0.0410 245.23)",
+          "oklch(38% 0.0410 245.23)",
+          "oklch(49% 0.0410 245.23)",
+          "oklch(61% 0.0410 245.23)",
+          "oklch(72% 0.0410 245.23)",
+          "oklch(84% 0.0410 245.23)",
+          "oklch(95% 0.0410 245.23)"
+        ]
+      },
+      "teal": {
+        "role": "primary",
+        "displayName": "Teal",
+        "tonalRamp": [
+          "oklch(15% 0.0892 211.21)",
+          "oklch(26% 0.0892 211.21)",
+          "oklch(38% 0.0892 211.21)",
+          "oklch(49% 0.0892 211.21)",
+          "oklch(61% 0.0892 211.21)",
+          "oklch(72% 0.0892 211.21)",
+          "oklch(84% 0.0892 211.21)",
+          "oklch(95% 0.0892 211.21)"
+        ]
+      },
+      "ice": {
+        "role": "secondary",
+        "displayName": "Ice",
+        "tonalRamp": [
+          "oklch(15% 0.0449 203.37)",
+          "oklch(26% 0.0449 203.37)",
+          "oklch(38% 0.0449 203.37)",
+          "oklch(49% 0.0449 203.37)",
+          "oklch(61% 0.0449 203.37)",
+          "oklch(72% 0.0449 203.37)",
+          "oklch(84% 0.0449 203.37)",
+          "oklch(95% 0.0449 203.37)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(26% 0.0000 89.88)",
+          "oklch(38% 0.0000 89.88)",
+          "oklch(49% 0.0000 89.88)",
+          "oklch(61% 0.0000 89.88)",
+          "oklch(72% 0.0000 89.88)",
+          "oklch(84% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Canvas",
+        "tonalRamp": [
+          "oklch(15% 0.0017 145.56)",
+          "oklch(26% 0.0017 145.56)",
+          "oklch(38% 0.0017 145.56)",
+          "oklch(49% 0.0017 145.56)",
+          "oklch(61% 0.0017 145.56)",
+          "oklch(72% 0.0017 145.56)",
+          "oklch(84% 0.0017 145.56)",
+          "oklch(95% 0.0017 145.56)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(26% 0.0000 89.88)",
+          "oklch(38% 0.0000 89.88)",
+          "oklch(49% 0.0000 89.88)",
+          "oklch(61% 0.0000 89.88)",
+          "oklch(72% 0.0000 89.88)",
+          "oklch(84% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0354 228.96)",
+          "oklch(26% 0.0354 228.96)",
+          "oklch(38% 0.0354 228.96)",
+          "oklch(49% 0.0354 228.96)",
+          "oklch(61% 0.0354 228.96)",
+          "oklch(72% 0.0354 228.96)",
+          "oklch(84% 0.0354 228.96)",
+          "oklch(95% 0.0354 228.96)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.0113 211.04)",
+          "oklch(26% 0.0113 211.04)",
+          "oklch(38% 0.0113 211.04)",
+          "oklch(49% 0.0113 211.04)",
+          "oklch(61% 0.0113 211.04)",
+          "oklch(72% 0.0113 211.04)",
+          "oklch(84% 0.0113 211.04)",
+          "oklch(95% 0.0113 211.04)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "tonalRamp": [
+          "oklch(15% 0.0199 217.27)",
+          "oklch(26% 0.0199 217.27)",
+          "oklch(38% 0.0199 217.27)",
+          "oklch(49% 0.0199 217.27)",
+          "oklch(61% 0.0199 217.27)",
+          "oklch(72% 0.0199 217.27)",
+          "oklch(84% 0.0199 217.27)",
+          "oklch(95% 0.0199 217.27)"
+        ]
+      },
+      "admin-canvas": {
+        "role": "neutral",
+        "displayName": "Admin Canvas",
+        "tonalRamp": [
+          "oklch(15% 0.0034 174.48)",
+          "oklch(26% 0.0034 174.48)",
+          "oklch(38% 0.0034 174.48)",
+          "oklch(49% 0.0034 174.48)",
+          "oklch(61% 0.0034 174.48)",
+          "oklch(72% 0.0034 174.48)",
+          "oklch(84% 0.0034 174.48)",
+          "oklch(95% 0.0034 174.48)"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "Error",
+        "tonalRamp": [
+          "oklch(15% 0.1378 24.05)",
+          "oklch(26% 0.1378 24.05)",
+          "oklch(38% 0.1378 24.05)",
+          "oklch(49% 0.1378 24.05)",
+          "oklch(61% 0.1378 24.05)",
+          "oklch(72% 0.1378 24.05)",
+          "oklch(84% 0.1378 24.05)",
+          "oklch(95% 0.1378 24.05)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Product-stage display",
+        "purpose": "MOVETE. hero lettering only."
+      },
+      "headline": {
+        "displayName": "Section headline",
+        "purpose": "Storefront section headings."
+      },
+      "body": {
+        "displayName": "Interface body",
+        "purpose": "Copy, navigation, controls and administration."
+      }
+    },
+    "shadows": [
+      {
+        "name": "hero-cutout",
+        "value": "drop-shadow(8px 25px 16px #071b2b20)",
+        "purpose": "Separates the hero product from display lettering."
+      },
+      {
+        "name": "hero-swatch",
+        "value": "0 0 0 1px #9bb0b4",
+        "purpose": "Outlines small circular hero colors."
+      }
+    ],
+    "motion": [
+      {
+        "name": "product-entry",
+        "value": ".8s cubic-bezier(.16,1,.3,1)",
+        "purpose": "One product-entry translation and rotation."
+      },
+      {
+        "name": "product-hover",
+        "value": ".35s",
+        "purpose": "Product image transform."
+      },
+      {
+        "name": "control-transition",
+        "value": ".2s",
+        "purpose": "Control background and text colors."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Disable animation, transition and smooth scroll."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-hero",
+        "value": "min-width:1600px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "max-width:1100px"
+      },
+      {
+        "name": "mobile",
+        "value": "max-width:700px"
+      }
+    ],
+    "focus": {
+      "value": "3px solid var(--teal); outline-offset:4px",
+      "purpose": "Visible keyboard focus."
+    },
+    "surfaces": {
+      "/": {
+        "mode": [
+          "persuade",
+          "operate"
+        ],
+        "reference": "https://amble.framer.media/"
+      },
+      "/admin": {
+        "mode": [
+          "operate"
+        ]
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Guardar producto",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Square primary action.",
+      "html": "<button class=\"ds-button-primary\">Guardar producto</button>",
+      "css": ".ds-button-primary{font-family:var(--body,\"DM Sans\",sans-serif);background:var(--ink,#071b2b);color:#fff;padding:14px 22px;min-height:48px;border:0;border-radius:0;cursor:pointer;transition:background .2s,color .2s}.ds-button-primary:hover{background:var(--teal,#167d8d);color:#fff}.ds-button-primary:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}.ds-button-primary:disabled{opacity:.4;cursor:not-allowed}"
+    },
+    {
+      "name": "Actualizar",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Square secondary action.",
+      "html": "<button class=\"ds-button-secondary\">Actualizar</button>",
+      "css": ".ds-button-secondary{font-family:var(--body,\"DM Sans\",sans-serif);background:#fff;color:var(--ink,#071b2b);padding:10px 15px;min-height:40px;border:1px solid var(--line,#c9d3d5);border-radius:0;cursor:pointer;transition:background .2s,color .2s}.ds-button-secondary:hover{background:var(--ice,#b9e4e8)}.ds-button-secondary:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}.ds-button-secondary:disabled{opacity:.4;cursor:not-allowed}"
+    },
+    {
+      "name": "Explorá la colección",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Square light action.",
+      "html": "<button class=\"ds-button-light\">Explorá la colección</button>",
+      "css": ".ds-button-light{font-family:var(--body,\"DM Sans\",sans-serif);background:var(--ice,#b9e4e8);color:var(--ink,#071b2b);padding:14px 22px;min-height:48px;border:0;border-radius:0;cursor:pointer;transition:background .2s,color .2s}.ds-button-light:hover{color:var(--teal,#167d8d)}.ds-button-light:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}.ds-button-light:disabled{opacity:.4;cursor:not-allowed}"
+    },
+    {
+      "name": "Category chip",
+      "kind": "chip",
+      "refersTo": "category-chip",
+      "description": "Pill filter with explicit selected state.",
+      "html": "<button class=\"ds-chip\" aria-pressed=\"true\">Running</button>",
+      "css": ".ds-chip{font-family:var(--body,\"DM Sans\",sans-serif);font-size:12px;padding:9px 16px;border:1px solid var(--line,#c9d3d5);border-radius:40px;background:transparent;color:var(--ink,#071b2b);cursor:pointer;transition:color .2s}.ds-chip[aria-pressed=true]{background:var(--ink,#071b2b);border-color:var(--ink,#071b2b);color:#fff}.ds-chip:hover{color:var(--teal,#167d8d)}.ds-chip:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}"
+    },
+    {
+      "name": "Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Labeled square field used in checkout and product forms.",
+      "html": "<label class=\"ds-field\">Nombre<input placeholder=\"Nombre del producto\"></label>",
+      "css": ".ds-field{font-family:var(--body,\"DM Sans\",sans-serif);display:flex;flex-direction:column;gap:8px;font-size:12px;color:var(--ink,#071b2b)}.ds-field input{font:inherit;padding:12px;border:1px solid #b3c4c9;border-radius:0;background:#fff;color:var(--ink,#071b2b);caret-color:var(--teal,#167d8d)}.ds-field input:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Light store navigation with ink identity and text actions.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Principal\"><a class=\"ds-wordmark\" href=\"#\">sergio®</a><button>Tienda</button><button>Deportivo</button></nav>",
+      "css": ".ds-nav{font-family:var(--body,\"DM Sans\",sans-serif);display:flex;align-items:center;gap:24px;padding:20px 3%;border-bottom:1px solid var(--line,#c9d3d5);background:#f8f9f8;color:var(--ink,#071b2b)}.ds-wordmark{font-size:38px;font-weight:800;letter-spacing:-.065em;text-decoration:none;color:inherit;margin-right:auto}.ds-nav button{font:inherit;border:0;background:none;color:inherit;cursor:pointer;transition:color .2s}.ds-nav button:hover,.ds-wordmark:hover{color:var(--teal,#167d8d)}.ds-nav button:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}.ds-wordmark:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}"
+    },
+    {
+      "name": "Product card",
+      "kind": "card",
+      "refersTo": "product-image",
+      "description": "Flat image plane with metadata outside the image.",
+      "html": "<article class=\"ds-product\"><button class=\"ds-product-image\" aria-label=\"Ver producto de muestra\"><span class=\"ds-tag\">Muestra</span><svg width=\"120\" height=\"60\" viewBox=\"0 0 120 60\" aria-hidden=\"true\"><path d=\"M12 37 44 15l18 8 15 14 29 4v9H12Z\" fill=\"#b9e4e8\" stroke=\"#071b2b\"/><path d=\"M12 44h94M49 24l15 9M43 29l15 9\" stroke=\"#071b2b\"/></svg></button><small>Urbanas</small><h3>Producto de muestra</h3><span>Precio de muestra</span></article>",
+      "css": ".ds-product{font-family:var(--body,\"DM Sans\",sans-serif);max-width:250px;color:var(--ink,#071b2b)}.ds-product-image{width:100%;aspect-ratio:1;border:0;background:var(--paper,#eee);position:relative;display:flex;align-items:center;justify-content:center;cursor:pointer}.ds-product-image svg{transition:transform .35s}.ds-product-image:hover svg{transform:scale(1.06) rotate(-3deg)}.ds-product-image:focus-visible{outline:3px solid var(--teal,#167d8d);outline-offset:4px}.ds-tag{position:absolute;left:15px;top:15px;font-size:10px;background:#f8f9f8;padding:5px 9px}.ds-product small{display:block;margin-top:17px;font-size:10px;color:var(--muted,#4b6470)}.ds-product h3{font-size:14px;font-weight:600;margin:5px 0}.ds-product>span{font-size:12px}@media(prefers-reduced-motion:reduce){.ds-product-image svg{transition:none}}"
+    },
+    {
+      "name": "Publication badge",
+      "kind": "chip",
+      "refersTo": "badge",
+      "description": "Compact publication or order state.",
+      "html": "<span class=\"ds-badge\">Publicado</span>",
+      "css": ".ds-badge{font-family:var(--body,\"DM Sans\",sans-serif);font-size:10px;padding:6px 9px;background:var(--ice,#b9e4e8);color:var(--ink,#071b2b);white-space:nowrap;font-weight:400}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Amble editorial product stage",
+    "overview": "The user-pinned Amble reference becomes a product-first editorial stage: oversized condensed lettering, a central footwear cutout, generous light space and a restrained navy/teal palette. The identity is energetic and direct; everyday copy and controls stay in DM Sans.\n\nThe storefront combines Persuade and Operate: expressive product discovery leads into explicit filters, variants and an order flow. Administration is Operate: compact tables, inventory rows and publication controls prioritize reading and editing.",
+    "keyCharacteristics": [
+      "Oversized product-stage typography with isolated product imagery.",
+      "Flat paper surfaces, navy structure and teal interaction accents.",
+      "Square actions and fields, rounded category pills and color swatches.",
+      "Responsive catalogue and compact task-focused administration."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve the user-pinned Amble product-stage direction and navy/teal/ice/paper palette.",
+      "Do use Barlow Condensed 800 for MOVETE. and DM Sans for the remaining interface.",
+      "Do retain visible teal keyboard focus, explicit field labels and reduced-motion behavior.",
+      "Do keep example inventory visibly marked as Muestra and prices clearly identified as samples.",
+      "Do use tabular numerals for feature counters and admin inventory totals."
+    ],
+    "donts": [
+      "Don't turn administrative tables into promotional cards.",
+      "Don't apply product-stage display typography to forms, body copy or tables.",
+      "Don't invent store policies, commercial promises, phone numbers or real inventory.",
+      "Don't replace square primary controls with universally rounded cards and buttons."
+    ]
+  }
+}
